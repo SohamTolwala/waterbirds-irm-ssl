@@ -22,8 +22,8 @@ This decoupling makes IRM stable and tractable, yielding significant improvement
 ## Methodology
 
 ### Workflow
-<p align="center">
-  <img src="workflow.png" alt="Workflow Diagram" width="600">
+<p align="left">
+  <img src="diagram.png" alt="Workflow Diagram" width="600">
 </p>
 
 1. **Stage 1 – SSL Backbone**  
