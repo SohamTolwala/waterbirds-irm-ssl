@@ -50,6 +50,3 @@ This decoupling makes IRM stable and tractable, yielding significant improvement
 - **Penalty scheduling** critical: gradual warmup or fixed λ after short burn-in works best.  
 - **Grad-CAM analysis** shows that SSL+IRM shifts attention from spurious backgrounds to causal object features.  
 
-<p align="center">
-  <img src="gradcam.png" alt="Grad-CAM Examples" width="700">
-</p>
