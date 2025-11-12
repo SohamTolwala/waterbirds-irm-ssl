@@ -4,7 +4,7 @@
 # Improving Invariant Risk Minimization with Self-Supervised Learning for OOD Robustness
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](report.pdf)  
-*Authors: Laxmiraman Gudewar, Soham Tolwala — Saarland University*
+*Authors: Laxmiraman Gudewar, Soham Tolwala, Prasad Patil — Saarland University*
 
 ---
 
